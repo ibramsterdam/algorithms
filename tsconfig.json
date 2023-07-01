@@ -11,7 +11,7 @@
         "module": "commonjs",
         "baseUrl": "src",
         "paths": {
-            "@code/*": ["day1/*"]
+            "@code/*": ["structures/*"]
         }
     },
     "include": ["./src/**/*"],

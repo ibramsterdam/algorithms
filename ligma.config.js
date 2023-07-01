@@ -21,7 +21,6 @@ module.exports = {
         "DFSOnBST",
         "DijkstraList",
         "DFSGraphList",
-        "Trie",
         "BFSGraphMatrix",
         "Map",
         "MinHeap",

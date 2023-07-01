@@ -1,12 +1,10 @@
-## I followed an Algorithms course where I implement the following algorithms and data structures
+## I followed an Algorithms course where I implement the following algorithms and data structures in typescript
 
 ### Supported Algorithm
 
--   Insertion sort
--   Merge sort
 -   QuickSort
--   Prim's MST (Adjacency List)
 -   Dijkstra's Shortest Path (Adjacency List)
+-   BubbleSort
 
 ### Supported Data Structures
 
@@ -15,23 +13,7 @@
 -   Queue
 -   Stack
 -   Graph with Adjacency List
--   Graph with Adjacency Matrix (untested)
-
-### How It Works
-
-1. Have Node & Yarn
-
-2. Clone Repo
-
-3. Install Dependencies
-
-4. Test algorithms with jest
-
-#### Testing
-
-```
-yarn test
-```
+-   Graph with Adjacency Matrix
 
 ## Repo structured developed by
 
