@@ -1,6 +1,4 @@
-import SinglyLinkedList from "@code/SinglyLinkedList";
-
-export function test_list(list: SinglyLinkedList<number>): void {
+export function test_list(list: List<number>): void {
     list.append(5);
     list.append(7);
     list.append(9);
